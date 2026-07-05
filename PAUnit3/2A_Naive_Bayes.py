@@ -31,3 +31,4 @@ naive_bayes_predicted = naive_bayes.predict(X_test)
 
 # Printing the heatmap and classification Report
 print_heatmap(y_test, naive_bayes_predicted)
+
